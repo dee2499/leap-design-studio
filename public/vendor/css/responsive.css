@@ -1,0 +1,60 @@
+/* Media Queries
+/* ----------------------------------- */
+@media only screen and (max-width: 1720px){
+
+}
+@media only screen and (max-width: 1500px){
+ 
+}
+@media only screen and (min-width: 768px){
+
+}
+
+@media only screen and (max-width: 1280px){
+	 
+}
+@media only screen and (min-width: 1024px){
+ 
+}
+@media only screen and (min-width: 1024px) and (max-width: 1210px){
+	 
+}
+@media only screen and (max-width: 1169px){
+ 
+}
+
+@media only screen and (max-width: 1023px){
+ 
+	}
+@media only screen and (max-width: 991px){
+ 
+}
+
+@media only screen and (max-width: 767px){
+ 
+}
+@media only screen and (max-width:639px){
+ 
+
+
+}
+@media only screen and (max-width:599px){
+	 
+}
+
+@media only screen and (max-width:510px){
+}
+@media only screen and (max-width:479px){
+ 
+	}
+@media only screen and (max-width:450px){
+	.modal-dialog ul li{ padding:15px 15px; }
+.modal-dialog ul li i{ margin:0 auto; padding:15px 0 0 0;  }
+.modal-dialog ul li span{ display:block; margin-top:18px; } 
+.modal-dialog ul li:hover { color:#3c5dec; background:#edeeef; border-radius:20px;}
+.modal-dialog ul li p { color:#000;    }
+.modal-dialog ul li p span{ color:#8e8e8e;  margin:0; padding:0;}
+.stepBox{ margin:10px 0 0 0; }
+	 
+ 
+}
